@@ -1,0 +1,20 @@
+Parasite
+A Global Game Jam Game.
+Last updated 1/29/2012
+
+***Parasite Game Jam Team***
+***Programmers:
+Triton "Demnchi" B 			- Level Creation and Enemy Formation 
+Alan "arvash" B 			- Bullet Patterns and Enemy AI 
+Jonathan "Flibbo" Hodges 	- GUI and Menus 
+Marc "strom1" S 			- Collisions and Optimization
+Frank "DragonsDoom" V 		- Parasite mechanics and Library programmer
+***Artists: 
+Triton "Demnchi" B - Level background and some game objects
+Travis "sonictbgamer" - Menu and Enemy Art, Dedicated
+***Music:
+Free Royalty - Composed by Stuart Burrows, PRS 
+
+Written in C# with XNA, originally SVN VCS
+The XNA game studio (4.0) is required for further development.
+The XNA redistributable (4.0) is required for client machines.
